@@ -1,5 +1,7 @@
 ## Crafting a Full-Stack Netflix Clone (MERN Stack) 🚀
 
+![Image]()
+
 ### Current Endeavor: Embracing Complexity
 
 Currently, I'm in the process of diving headfirst into the world of Node.js and simultaneously creating a captivating full-stack Netflix clone using the power-packed MERN stack (MongoDB, Express.js, React, Node.js).
