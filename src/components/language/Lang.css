@@ -1,0 +1,21 @@
+.language {
+  width: 120px;
+  height: 32px;
+  justify-content: center;
+  gap: 9px;
+  background-color: #00000049;
+  border-radius: 5px;
+  border: 0.1px solid rgb(104, 104, 104);
+}
+
+.language svg {
+  width: 16px;
+  height: 16px;
+}
+
+#lang {
+  border: 0px;
+  background-color: transparent;
+  font-size: medium;
+  color: var(--primary-text-color);
+}

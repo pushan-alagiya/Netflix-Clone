@@ -1,0 +1,81 @@
+.hero {
+  text-align: center;
+  padding: 0;
+  max-width: 70%;
+  z-index: 1;
+  margin-top: 195px;
+}
+
+h3 {
+  margin: 12px;
+  font-weight: 400;
+}
+
+.hero-line {
+  margin-top: 25px;
+}
+
+.hero-btns {
+  margin-top: 15px;
+  justify-content: center;
+  gap: 30px;
+}
+
+.hero-input {
+  height: 56px;
+  width: 350px;
+  background-color: rgba(0, 0, 0, 0.542);
+  border: 0.5px solid rgb(106, 105, 105);
+  border-radius: 5px;
+  text-align: center;
+}
+
+#input-email {
+  position: relative;
+  top: 20px;
+  left: -10px;
+  border: 0;
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 16px;
+  z-index: 1;
+  width: 300px;
+  height: 30px;
+}
+
+.hero-input:focus {
+  border: none;
+  outline: none;
+  border: 1px solid #ffffff;
+  outline: 3px solid #ffffff;
+}
+
+#input-email:focus {
+  border: 0px;
+  outline: 0px;
+}
+
+.email-label {
+  position: relative;
+  top: -14px;
+  left: -100px;
+  font-size: 16px;
+  color: #adadad;
+  transition: all 0.5s ease-in-out;
+}
+
+#input-email:focus ~ .email-label {
+  top: -30px;
+  left: -120px;
+  font-size: 12px;
+}
+
+.getbutton {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+  width: 200px;
+  height: 56px;
+}

@@ -1,0 +1,23 @@
+.mobile {
+  margin-block: 60px;
+  flex-flow: column-reverse;
+}
+
+.mobile-txt,
+.mobile-img {
+  flex-basis: 50%;
+}
+
+.mobile-extra-text {
+  margin: 0;
+  text-align: center;
+  margin: 15px 0px 20px;
+}
+
+.mobile-img img {
+  width: 100%;
+}
+
+.mobile-header {
+  text-align: center;
+}

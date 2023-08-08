@@ -1,0 +1,18 @@
+.multi {
+  margin-block: 60px;
+}
+
+.multi-txt,
+.multi-img {
+  flex-basis: 50%;
+}
+
+.multi-extra-text {
+  margin: 0;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.multi-img img {
+  width: 100%;
+}

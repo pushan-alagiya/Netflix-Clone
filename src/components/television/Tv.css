@@ -1,0 +1,19 @@
+.tv {
+  margin-block: 60px;
+}
+
+.tv-txt,
+.tv-img {
+  flex-basis: 50%;
+}
+
+.tv-extra-text {
+  margin: 0;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.tv-img img {
+  width: 100%;
+  padding: 0px 20px 40px;
+}

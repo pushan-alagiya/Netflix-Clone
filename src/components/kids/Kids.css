@@ -1,0 +1,26 @@
+.kids {
+  margin-block: 60px;
+  flex-flow: column-reverse;
+}
+
+.kids-txt,
+.kids-img {
+  flex-basis: 50%;
+}
+
+.kids-extra-text {
+  margin: 0;
+  text-align: center;
+  margin: 15px 0px 20px;
+}
+
+.kids-img img {
+  width: 80%;
+}
+
+.kids-img {
+  justify-content: center;
+}
+.kids-header {
+  text-align: center;
+}
