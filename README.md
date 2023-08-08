@@ -1,6 +1,6 @@
 ## Crafting a Full-Stack Netflix Clone (MERN Stack) 🚀
 
-![Image]()
+![Image](https://github.com/pushan-alagiya/netflix/blob/main/src/assets/Screenshot%20from%202023-08-09%2001-43-08.png?raw=true)
 
 ### Current Endeavor: Embracing Complexity
 
