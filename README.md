@@ -2,6 +2,8 @@
 
 ![Image](https://github.com/pushan-alagiya/netflix/blob/main/src/assets/Screenshot%20from%202023-08-09%2001-43-08.png?raw=true)
 
+#### Using TMDb API: https://github.com/pushan-alagiya/netflix-mainpage
+
 ### Current Endeavor: Embracing Complexity
 
 Currently, I'm in the process of diving headfirst into the world of Node.js and simultaneously creating a captivating full-stack Netflix clone using the power-packed MERN stack (MongoDB, Express.js, React, Node.js).
